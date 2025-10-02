@@ -8,7 +8,7 @@
       "color": "#091A29",
       "stroke": "#091A29"
     },
-    "focal": { "x": "250%" },
+    "focal": { "x": "200%" },
     "gradientColor": "#17F0FF",
     "card": {
       "bg": "#17F0FF",
@@ -44,7 +44,7 @@
       "color": "#FDFDFD",
       "stroke": "#B63133"
     },
-    "focal": { "x": "140%" },
+    "focal": { "x": "120%" },
     "gradientColor": "#EC494B",
     "card": {
       "bg": "#EC494B",
@@ -80,7 +80,7 @@
       "color": "#FDFDFD",
       "stroke": "#7A26C3"
     },
-    "focal": { "x": "150%" },
+    "focal": { "x": "130%" },
     "gradientColor": "#BD71FF",
     "card": {
       "bg": "#BD71FF",
@@ -117,7 +117,7 @@
       "color": "#091A29",
       "stroke": "#BDD143"
     },
-    "focal": { "x": "160%" },
+    "focal": { "x": "140%" },
     "gradientColor": "#E8FF5A",
     "card": {
       "bg": "#E8FF5A",
