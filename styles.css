@@ -31,6 +31,7 @@ body {
   -webkit-user-select: none;
   user-select: none;
   gap: 0;
+  background: #091a29;
 }
 
 /* ===== SLIDE DEFAULTS ===== */
