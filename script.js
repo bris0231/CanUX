@@ -92,7 +92,7 @@
   // ---- JSON slides ----
   (async function loadSlides() {
     try {
-      const res = await fetch("slides.json");
+      const res = await fetch("./slides.json");
       const data = await res.json();
       data.forEach(makeSlide);
 
