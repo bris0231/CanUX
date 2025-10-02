@@ -26,11 +26,11 @@
       "sections": [
         {
           "title": "Client Overview and Business Challenge",
-          "content": "McCalman & Co. Legal Services Inc. (“MACLEGAL”), established in 2014 by Attorney-at-Law Ayana McCalman, is a legal practice in Guyana committed to an integrative, peace-making and solution-oriented approach to law. A key challenge identified was the firm’s ability to efficiently handle client queries, streamline lengthy legal research processes, and consistently deliver accurate, timely legal assistance. Recognizing these pain points, MACLEGAL explored integrating innovative AI technology to strategically enhance client engagement and internal productivity."
+          "content": "The Canada Border Services Agency (CBSA), Canada’s border authority, is responsible for enforcing laws governing international travel and trade. A key challenge identified was the need to reduce traveller errors at points of entry by developing a deeper understanding of human behaviours and decision-making in high-stakes environments. Recognizing this opportunity, CBSA partnered with DFFRNT to conduct behavioural research and create detailed personas, strategically informing modernization efforts and improving the traveller experience."
         },
         {
-          "title": "AI Solution and Implementation",
-          "content": "To address the stated challenges, an AI-powered virtual assistant named “Lawra™” was proposed, developed, and tested. Lawra™ was specifically created to automate routine legal inquiries, efficiently handle standard requests, and significantly accelerate research tasks for the firm’s internal legal personnel. The technology was trained on relevant legal frameworks, common client queries, and procedural contexts specific to MACLEGAL’s practice and jurisdiction. Following rigorous internal testing and iterative client feedback, MACLEGAL confirmed the solution effectively streamlined responses, enhanced information accessibility, and improved operational efficiency."
+          "title": "Solution and Implementation",
+          "content": "To address these challenges, DFFRNT conducted immersive field research at airports and land borders, observing real traveller behaviours and engaging CBSA officers through interviews, contextual inquiries, and system walkthroughs. Complemented by an environmental scan of global best practices, this work uncovered the root causes of inadvertent non-compliance and the behavioural patterns underlying them. From these insights, DFFRNT developed behavioural personas that captured traveller types, goals, stress points, and decision-making tendencies. These personas, along with journey maps detailing moments of confusion and error, provided CBSA with a structured evidence base to define systemic challenges, inform targeted communications, and guide the design of future digital services."
         }
       ]
     }
