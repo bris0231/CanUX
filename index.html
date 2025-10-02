@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Horizontal Accordion — Always-Visible Peeks</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="accordion" id="accordion">
+      <div class="slide is-active">
+        <div class="instructions-wrapper">
+          <div class="instructions-label">TAP HERE TO EXPLORE</div>
+          <svg
+            class="instructions-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 640 640"
+          >
+            <path
+              d="M297.4 470.6C309.9 483.1 330.2 483.1 342.7 470.6L534.7 278.6C547.2 266.1 547.2 245.8 534.7 233.3C522.2 220.8 501.9 220.8 489.4 233.3L320 402.7L150.6 233.4C138.1 220.9 117.8 220.9 105.3 233.4C92.8 245.9 92.8 266.2 105.3 278.7L297.3 470.7z"
+            />
+          </svg>
+        </div>
+        <div class="slide-content is-intro">
+          <div class="intro-header">
+            <img class="dffrnt-logo" src="./assets/dffrnt.png" />
+          </div>
+          <div class="intro-title-wrapper">
+            <span class="intro-title"
+              >Artificial<br />Inteligence<br />
+              <span class="intro-title accent">Lifecycle</span></span
+            >
+          </div>
+          <div class="intro-body">
+            <span
+              >At DFFRNT, we help public and private organizations navigate
+              complexity and unlock new possibilities through outcome-driven
+              innovation. Our practice combines deep expertise in user research,
+              service design, and systems thinking with the development of
+              emerging technologies,most notably artificial intelligence. By
+              grounding AI development in human-centred methods, we ensure that
+              tools are not only powerful, but ethical, inclusive, and
+              impactful.</span
+            >
+            <span
+              >Through our partnership with V75inc, we extend this vision into
+              practice by integrating TrueSelph, their cutting-edge AI engine
+              that personalizes and humanizes digital experiences. Together,
+              DFFRNT and V75inc bridge the gap between strategy, research, and
+              technology, co-creating AI solutions that address wicked problems,
+              scale responsibly, and deliver meaningful outcomes for
+              organizations and the people they serve.</span
+            >
+          </div>
+          <div class="intro-header">
+            <img class="trueselph-logo" src="./assets/trueselph.png" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

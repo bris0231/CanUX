@@ -1,0 +1,147 @@
+[
+  {
+    "backgroundImage": "./assets/phase1.jpg",
+    "button": {
+      "label": "READ CASE STUDY",
+      "href": "https://example.com/case1",
+      "bg": "#17F0FF",
+      "color": "#091A29",
+      "stroke": "#091A29"
+    },
+    "focal": { "x": "250%" },
+    "gradientColor": "#17F0FF",
+    "card": {
+      "bg": "#17F0FF",
+      "textColor": "#091A29",
+      "phase": "PHASE 1",
+      "title": "DISCOVERY & DEFINE",
+      "subtitle": "RESEARCH",
+      "logo": "./assets/dffrnt-dark.png",
+      "body": "For CBSA’s Discover and Define phase we uncovered why compliance-minded travellers and traders still struggled with inadvertent non-compliance. Through stakeholder workshops, interviews, and surveys, we mapped behaviours and pain points, defined key personas, and framed systemic challenges, building the evidence base for targeted communications and future digital service improvements."
+    },
+    "modalCard": {
+      "title": "Canada Border Services",
+      "bg": "#17F0FF",
+      "textColor": "#091A29",
+      "sections": [
+        {
+          "title": "Client Overview and Business Challenge",
+          "content": "McCalman & Co. Legal Services Inc. (“MACLEGAL”), established in 2014 by Attorney-at-Law Ayana McCalman, is a legal practice in Guyana committed to an integrative, peace-making and solution-oriented approach to law. A key challenge identified was the firm’s ability to efficiently handle client queries, streamline lengthy legal research processes, and consistently deliver accurate, timely legal assistance. Recognizing these pain points, MACLEGAL explored integrating innovative AI technology to strategically enhance client engagement and internal productivity."
+        },
+        {
+          "title": "AI Solution and Implementation",
+          "content": "To address the stated challenges, an AI-powered virtual assistant named “Lawra™” was proposed, developed, and tested. Lawra™ was specifically created to automate routine legal inquiries, efficiently handle standard requests, and significantly accelerate research tasks for the firm’s internal legal personnel. The technology was trained on relevant legal frameworks, common client queries, and procedural contexts specific to MACLEGAL’s practice and jurisdiction. Following rigorous internal testing and iterative client feedback, MACLEGAL confirmed the solution effectively streamlined responses, enhanced information accessibility, and improved operational efficiency."
+        }
+      ]
+    }
+  },
+  {
+    "backgroundImage": "./assets/phase2.jpg",
+    "button": {
+      "label": "READ CASE STUDY",
+      "href": "https://example.com/case2",
+      "bg": "#EC494B",
+      "color": "#FDFDFD",
+      "stroke": "#B63133"
+    },
+    "focal": { "x": "140%" },
+    "gradientColor": "#EC494B",
+    "card": {
+      "bg": "#EC494B",
+      "textColor": "#ffffff",
+      "phase": "PHASE 2",
+      "title": "PROTOTYPE & BUILD",
+      "subtitle": "TRUESELPH AI PROTOTYPING",
+      "logo": "",
+      "body": "Lawra™ is an AI-powered legal assistant developed for McCalman & Co.. During the Prototype & Build phase we used  real client queries and jurisdiction-specific legal frameworks to iteratively prototype and refine the tool. This process automated routine inquiries, accelerated research tasks, and enhanced client engagement showcasing AI’s ability to transform professional services."
+    },
+    "modalCard": {
+      "title": "McCalman & Co Legal Services",
+      "bg": "#EC494B",
+      "textColor": "#ffffff",
+      "sections": [
+        {
+          "title": "Client Overview and Business Challenge",
+          "content": "McCalman & Co. Legal Services Inc. (“MACLEGAL”), established in 2014 by Attorney-at-Law Ayana McCalman, is a legal practice in Guyana committed to an integrative, peace-making and solution-oriented approach to law. A key challenge identified was the firm’s ability to efficiently handle client queries, streamline lengthy legal research processes, and consistently deliver accurate, timely legal assistance. Recognizing these pain points, MACLEGAL explored integrating innovative AI technology to strategically enhance client engagement and internal productivity."
+        },
+        {
+          "title": "AI Solution and Implementation",
+          "content": "To address the stated challenges, an AI-powered virtual assistant named “Lawra™” was proposed, developed, and tested. Lawra™ was specifically created to automate routine legal inquiries, efficiently handle standard requests, and significantly accelerate research tasks for the firm’s internal legal personnel. The technology was trained on relevant legal frameworks, common client queries, and procedural contexts specific to MACLEGAL’s practice and jurisdiction. Following rigorous internal testing and iterative client feedback, MACLEGAL confirmed the solution effectively streamlined responses, enhanced information accessibility, and improved operational efficiency."
+        }
+      ]
+    }
+  },
+  {
+    "backgroundImage": "./assets/phase3.jpg",
+    "button": {
+      "label": "READ CASE STUDY",
+      "href": "https://example.com/case3",
+      "bg": "#BD71FF",
+      "color": "#FDFDFD",
+      "stroke": "#7A26C3"
+    },
+    "focal": { "x": "150%" },
+    "gradientColor": "#BD71FF",
+    "card": {
+      "bg": "#BD71FF",
+      "textColor": "#ffffff",
+      "phase": "PHASE 3",
+      "title": "TEST & ITERATE",
+      "subtitle": "USABILITY TESTING & REFINEMENT",
+      "logo": "./assets/uxlab.png",
+      "body": "For LifeLabs, the Iterate & Test phase focused on validating new information architecture and digital service flows through testing with real patients and providers. Iterative prototyping surfaced accessibility gaps, navigation challenges, and trust factors, allowing refinements that improved clarity, reduced errors, and enhanced confidence in the redesigned health services platform."
+    },
+    "modalCard": {
+      "title": "Lifelabs",
+      "bg": "#BD71FF",
+      "textColor": "#ffffff",
+      "sections": [
+        {
+          "title": "Client Overview and Business Challenge",
+          "content": "LifeLabs is Canada’s largest provider of specialty laboratory testing services, serving millions of Canadians each year through in‑clinic testing and its online portal. Preparing to launch a new line of at‑home testing kits—the first step in a broader digital transformation—LifeLabs needed to ensure the product felt intuitive, trustworthy, and aligned with its reputation for patient‑centered care. Because the launch also spearheaded a larger redesign of LifeLabs.com, the company partnered with DFFRNT to uncover usability gaps and validate design changes with real users before going to market."
+        },
+        {
+          "title": "Solution and Outcome",
+          "content": "DFFRNT led a two‑phase UX research initiative beginning with an expert evaluation of LifeLabs.com’s information architecture and “Tests & Services” section to identify content and navigation pitfalls. Recommendations included simplifying the site’s structure with a task‑based approach, clarifying labeling, and aligning menu designs with user expectations. In the second phase, DFFRNT created a high‑fidelity prototype of the new at‑home testing experience and conducted usability testing with a demographically diverse mix of first‑time and existing patients. Insights from these sessions—including a preference for plain language over medical jargon—refined navigation, content, and design cues. The result was a validated user experience, improved discoverability of offerings, and a scalable framework for future product launches. LifeLabs successfully launched its at‑home testing kits with greater clarity, trust, and a streamlined path to purchase shaped directly by user feedback."
+        }
+      ]
+    }
+  },
+  {
+    "backgroundImage": "./assets/phase4.jpg",
+    "classes": "is-last",
+    "button": {
+      "label": "READ CASE STUDY",
+      "href": "https://example.com/case4",
+      "bg": "#E8FF5A",
+      "color": "#091A29",
+      "stroke": "#BDD143"
+    },
+    "focal": { "x": "160%" },
+    "gradientColor": "#E8FF5A",
+    "card": {
+      "bg": "#E8FF5A",
+      "textColor": "#091A29",
+      "phase": "PHASE 4",
+      "title": "DEPLOY & MEASURE",
+      "subtitle": "REAL WORLD ROLLOUT & ADOPTION",
+      "logo": "",
+      "body": "For the CARICOM Competition and Consumer Affairs Commission, we deployed a WhatsApp-based AI assistant trained on consumer rights and responsibilities. The tool was launched directly into citizens’ preferred communication channel. Live deployment improved response times, and strengthened public trust through accessible, reliable digital engagement."
+    },
+    "modalCard": {
+      "title": "Caricom General Insurance Company",
+      "bg": "#E8FF5A",
+      "textColor": "#091A29",
+      "sections": [
+        {
+          "title": "Client Overview and Business Challenge",
+          "content": "Caricom General Insurance Company, Inc., founded in 1997, specializes in delivering customized risk and financial management solutions, offering products such as general, motor, fire, specialty insurance, bonds, and financial guarantees. Known for their customer-centric approach, Caricom General operates from its headquarters in Ruimzeight and across nine branches nationwide. A central operational challenge involved their manual bid bond preparation process, which required clients to physically visit the offices, complete manual application forms, and submit supporting paperwork, resulting in inefficiencies, customer inconvenience, and extended processing times."
+        },
+        {
+          "title": "AI Solution and Implementation",
+          "content": "To address these inefficiencies, Caricom General initiated an AI enablement project by developing a WhatsApp-based AI solution to modernize and streamline bid bond processing. The solution leveraged intelligent chatbot technology, guiding customers through a conversational interface within WhatsApp to conveniently submit required information and attachments. The AI-driven tool automatically compiled details, prepared a fully populated bid bond application form, and seamlessly forwarded the application to Caricom General’s staff via email or WhatsApp. The prototype was completed successfully, validated using real application scenarios, and commenced internal testing within the organization."
+        }
+      ]
+    }
+  }
+]
