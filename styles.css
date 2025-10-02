@@ -156,6 +156,7 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
+  background-color: #091a29;
   background: center / cover no-repeat;
   overflow: hidden;
   will-change: background-position;
